@@ -30,7 +30,6 @@ double mean(double a, double b) {
 
 
 
-
 int main() {
     double a = 6;
     double b = 2;
